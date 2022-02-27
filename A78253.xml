@@ -1,0 +1,147 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of the Ladies Margaret, Catherine, and Elizabeth McCarty, daughters of Calaghan late Earl of Clancarty.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78253</idno>
+            <idno type="STC">Wing C1101</idno>
+            <idno type="STC">ESTC T20209</idno>
+            <idno type="EEBO-CITATION">43077480</idno>
+            <idno type="OCLC">ocm 43077480</idno>
+            <idno type="VID">151539</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78253)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151539)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2264:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of the Ladies Margaret, Catherine, and Elizabeth McCarty, daughters of Calaghan late Earl of Clancarty.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1700?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Date of publication suggested by Wing.</note>
+                  <note>Includes docket title on verso.</note>
+                  <note>Reproduction of original in: Henry E. Huntington Library and Art Gallery, San Marino, California.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Clancarty, Calaghan MacCarty, --  Earl of, d. 1676 --  Will.</term>
+               <term>Maccarty, Margaret.</term>
+               <term>Maccarty, Catherine.</term>
+               <term>Maccarty, Elizabeth.</term>
+               <term>Great Britain --  History --  1660-1714 --  Sources.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:151539:1"/>
+            <head>THE CASE OF The Ladies <hi>Margaret, Catherine,</hi> and <hi>Elizabeth M<hi rend="sup">c</hi> Carty,</hi> Daughters of <hi>Calaghan</hi> late Earl of <hi>Clancarty.</hi>
+            </head>
+            <p>THe ſaid <hi>Calaghan,</hi> Earl of <hi>Clancarty,</hi> gave his Councel inſtructions to draw a Settlement of his Eſtate, and therein to Charge the ſame with Four Thouſand Pounds Portion for each of his Daughters, but he ſuddenly dying inteſtate of an Apoplexy, before the ſaid Settlement could be got ready, his ſaid Daughters, who always were, and ſtill are Proteſtants, were l<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ft unprovided for.</p>
+            <p>By the ſaid Earl's Death, his Eſtate of the yearly Value of 9000 <hi>l.</hi> deſcended to his Son <hi>Donogh,</hi> now Earl of <hi>Clancarty,</hi> then under Age, who was ſo ſenſible of what his Father deſigned for his ſaid Siſters, that, to ſatisfie them, and as a further Tye upon himſelf to provide for them, when he came of Age, he by Deed charged his ſaid Eſtate with 4000 <hi>l.</hi> Portion for each of them.</p>
+            <p>The ſaid Eſtate being much incumbred, a great part thereof was extended, and poſſeſſed by Creditors, after the Death of the ſaid Earl, and the Counteſs of <hi>Clancarty,</hi> the now Earl's Mother, kept out of her Dower, or Thirds, from the time of his deceaſe, which happened in the Year 1676, until the Year 1682, at which time ſhe had Judgment to recover a third part of the ſaid Earl's Eſtate for her Dower, and thereby alſo reco<g ref="char:EOLhyphen"/>vered 6280 <hi>l.</hi> for her Damages for the detention of her ſaid Dower for ſo long a time.</p>
+            <p>The ſaid Counteſs, at the requeſt of her Son, the now Earl of <hi>Clancarty,</hi> to whom ſhe was Guardian, paid ſeveral Debts, which were charged upon the ſaid Eſtate, and ingaged to pay 2000 <hi>l.</hi> part of the Marriage-Portion of the Lady <hi>Hellen,</hi> her Daughter, another Siſter of the preſent Earl of <hi>Clancarty,</hi> left alſo unprovided for by her Father, which Sum of 2000 <hi>l.</hi> and the Debt ſo paid, and diſcharged as aforeſaid, amount to 5784 <hi>l.</hi> 17 <hi>s.</hi> 8 <hi>d.</hi> as by the Report of the Atturney-General in <hi>Ireland,</hi> and the Lords of the Treaſury in <hi>England</hi> ready to be produced, may appear.</p>
+            <p>Before the ſaid Counteſs or Daughters could receive any of the ſaid ſeveral Sums or Portions, the ſaid Earl's Eſtate was ſeized into their Majeſties Hands, on account of the late Troubles.</p>
+            <p>The Houſe of Lords in <hi>England,</hi> in the Year 1690, had ſuch a conſideration for the Caſe of the ſaid Counteſs, and her Daughters, that they made a <hi>Proviſo</hi> for charging the ſaid Eſtate with the ſaid Counteſs's Debts, and 4000 <hi>l.</hi> apiece to her three Daughters, in a Bill, then depending for veſting the Forfeitures of <hi>Ireland</hi> in his Majeſty, for the uſe of the War, but the Parliament was Prorogued before the ſaid Bill received the Royal Aſſent.</p>
+            <p>The ſaid Counteſs thereupon petitioned his Majeſty in 1692, and an Order of Reference was thereupon made to the Atturney-General of <hi>Ireland;</hi> and, on his Report, a Reference to the Lords of the Treaſury in <hi>England;</hi> who reported the ſaid Counteſs right to 6280 <hi>l.</hi> for detention of her Dower, and alſo to the ſaid 5784 <hi>l.</hi> 17 <hi>s.</hi> 8 <hi>d.</hi> which ſo ſatisfied his Majeſty of the Juſtice and Equity of her Pretenſions, that on the 23<hi rend="sup">th</hi> Day of <hi>March,</hi> 1691/3. he was graciouſly pleaſed to order the ſaid Sums to be paid her out of the Rents and Profits of the ſaid forfeited Eſtate; which Order meeting with unuſual and unexpected Delays in <hi>Ireland,</hi> her late Majeſty, of ever bleſſed Memory, gave the ſaid Counteſs a Letter, under her Royal Signet, or Sign Manual, bearing Date the 11<hi rend="sup">th</hi> Day of <hi>July,</hi> 1693, to paſs Patent, in order to receive the ſaid ſeveral Sums out of the ſaid forfeited Eſtate; and likewiſe gave Aſſurances, that the ſaid Counteſs's three Daughters ſhould each have the ſame Portion of 4000 <hi>l.</hi> as was deſigned them, and as ſhe gave to her eldeſt Daughter; but be<g ref="char:EOLhyphen"/>fore the ſaid Counteſs, or her ſaid Daughters could have any benefit of the ſaid Grants, or prevail to have the ſame paſs the Seals, the whole Eſtate was granted to the Lord <hi>Woodſtock,</hi> who had better ſucceſs in paſ<g ref="char:EOLhyphen"/>ſing Patent, without any the leaſt proviſion for the ſaid Counteſs or Daughters, or any notice taken of her ſaid Grants, or of ſeveral Caveatestentered againſt the ſaid Lords paſſing Patent of the ſaid Eſtate.</p>
+            <p>The ſaid Counteſs, having lived ſome Years in Miſery, and being quite ſpent and fatigued by her Solicitation about this Affair, and worried by Creditors, who, upon the Credit of this Debt, advanced Money for the managing and carrying on her ſaid Buſineſs, and for the Support of her ſelf and her Daughters; and ſeeing by theſe Diſappointments, all her Credit failing, and no way left her to pay what ſhe owed; or to keep her ſelf or her ſaid Daughters from the greateſt Diſtreſs and Want, ſhe died, leaving her ſaid Daughters in a moſt deplorable Condition, without any the leaſt Subſiſtance, and expoſed to all the Calamities that can attend Perſons of their Age, Sex, and Circumſtances.</p>
+            <p>
+               <hi>Therefore the ſaid Ladies,</hi> Margaret, Elizabeth, <hi>and</hi> Catherine, <hi>being all Proteſtants, do humbly addreſs them<g ref="char:EOLhyphen"/>ſelves to the Honour and Juſtice of the great and wiſe Councel, the Parliament of</hi> England, <hi>for Relief in their most deplorable Condition; eſpecially having received Incouragements to hope for it from their Majeſties, and the most noble Houſe of Lords in favour of the preſent Caſe, as it is here ſet forth, by granting them the like</hi> Proviſo <hi>in the preſent Bill, that the Houſe of Lords in the Year</hi> 1690, <hi>ordered to be added to the Bill, for veſting the forfeited Eſtates in his Majeſty for the uſe of the War; or otherwiſe, to give leave to bring in a Bill for charging their Brother's Eſtate, with their Portions and Mother's just Debts or any other Fund, in ſuch a manner as to their great Wiſdom ſhall ſeem meet.</hi>
+            </p>
+            <p>
+               <hi>And the Parties to this Caſe, have this farther to ſay for themſelves, That they are ſo many innocent Perſons and miſerably neceſſitous to the highest Degree of Diſtreſs; to which may be added, the Conſideration of their Sex and Quality: In all which Regards, over and above the Equity of their Pretentions, they hope to be found proper Objects of Chriſtian Charity, Humanity, and Common Juſtice.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="docket_title">
+            <pb facs="tcp:151539:2" rendition="simple:additions"/>
+            <pb facs="tcp:151539:2" rendition="simple:additions"/>
+            <p>THE CASE OF The Ladies <hi>Margaret, Catherine,</hi> and <hi>Elizabeth M<hi rend="sup">c</hi> Carty,</hi> Daughters of <hi>Calaghan,</hi> late Earl of <hi>Clancarty.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
